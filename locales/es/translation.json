@@ -5,14 +5,14 @@
     "safety": "Seguridad",
     "photos": "Fotos",
     "testimonial": "Testimoniales",
-    "contact": "Contactanos",
+    "contact": "Contáctanos",
     "donate": "Dona En Línea"
   },
 
   "home": {
-    "presentationText": "Our goal is to serve the under served in Puerto Peñasco, Sonora, Mexico, in their quest for acute or ongoing free medical care, and to lead them into a loving relationship with Jesus Christ through the clinic outreach. We provide free medical care to the people who are otherwise overlooked in their health care needs. We provide services, in cooperation with the city and the Cruz Roja, and local physicians.<br /><br />We attempt to provide care when no other resources are available to people desperately hurt by the changing economic conditions of the area. We are under the missions area of Family of God church, in Puerto Peñasco.",
+    "presentationText": "Nuestro objetivo es servir a los que no reciben servicios en Puerto Peñasco, Sonora, México, en su búsqueda de atención médica gratuita o continua, y llevarlos a una relación amorosa con Jesucristo a través del alcance de la clínica. <br /> <br />Brindamos atención médica gratuita a las personas que de otro modo se pasan por alto en sus necesidades de atención médica. Brindamos servicios, en cooperación con la ciudad y la Cruz Roja, y médicos locales. Intentamos brindar atención cuando no hay otros recursos disponibles para personas que sufren desesperadamente las cambiantes condiciones económicas del área. Estamos bajo el área de misiones de la iglesia de la Familia de Dios, en Puerto Peñasco.",
     "upcomingClinics": "Próximas Clínicas",
-    "videoTitle": "PEÑASCO WORDS OF HOPE COMMUNITY CENTER",
+    "videoTitle": "Peñasco Words Of Hope Community Center",
     "videoText": "Durante los últimos 5 años hemos podido ayudar a las familias de nuestra ciudad gracias a tu apoyo! Ayúdanos para seguir alcanzando a más familias!.",
     "donateButtonText": "DONA",
     "donateText": "Amigos, por favor ayuden a los afectados por el COVID-19 en Puerto Peñasco.",
@@ -42,7 +42,7 @@
     "emailLabel": "Correo",
     "addressLabel": "Dirección",
     "communityCenter": "Centro Comunitario",
-    "placeLabel": "Clínica"
+    "placeLabel": "Centro Comunitario"
   },
 
   "safety": {
