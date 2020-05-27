@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rp-medical-clinics/precache-manifest.e256faf88fb74d96e13e9808bd448abf.js"
+  "/rp-medical-clinics/precache-manifest.e69f05f111e46af8da581b9ca20b5b8a.js"
 );
 
 self.addEventListener('message', (event) => {

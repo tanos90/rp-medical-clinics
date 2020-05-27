@@ -19,7 +19,9 @@
     "services": {
       "title": "Services"
     },
-    "communityCenter": "Community Center"
+    "communityCenter": "Community Center",
+    "newsletterTitle": "Read Susie's NewsLetter",
+    "newsletterText": "Current Newsletter"
   },
 
   "about": {
