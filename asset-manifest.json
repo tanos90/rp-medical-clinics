@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rp-medical-clinics/static/css/main.1f57fa87.chunk.css",
-    "main.js": "/rp-medical-clinics/static/js/main.c6dfcd0c.chunk.js",
-    "main.js.map": "/rp-medical-clinics/static/js/main.c6dfcd0c.chunk.js.map",
+    "main.js": "/rp-medical-clinics/static/js/main.f819fefd.chunk.js",
+    "main.js.map": "/rp-medical-clinics/static/js/main.f819fefd.chunk.js.map",
     "runtime-main.js": "/rp-medical-clinics/static/js/runtime-main.1adddd1e.js",
     "runtime-main.js.map": "/rp-medical-clinics/static/js/runtime-main.1adddd1e.js.map",
     "static/css/2.70f84517.chunk.css": "/rp-medical-clinics/static/css/2.70f84517.chunk.css",
     "static/js/2.2e445f32.chunk.js": "/rp-medical-clinics/static/js/2.2e445f32.chunk.js",
     "static/js/2.2e445f32.chunk.js.map": "/rp-medical-clinics/static/js/2.2e445f32.chunk.js.map",
     "index.html": "/rp-medical-clinics/index.html",
-    "precache-manifest.5531d8fdd9619bbb16ef2107e1596d7b.js": "/rp-medical-clinics/precache-manifest.5531d8fdd9619bbb16ef2107e1596d7b.js",
+    "precache-manifest.0b9d8d058663718581c39aa317cfe7ee.js": "/rp-medical-clinics/precache-manifest.0b9d8d058663718581c39aa317cfe7ee.js",
     "service-worker.js": "/rp-medical-clinics/service-worker.js",
     "static/css/2.70f84517.chunk.css.map": "/rp-medical-clinics/static/css/2.70f84517.chunk.css.map",
     "static/css/main.1f57fa87.chunk.css.map": "/rp-medical-clinics/static/css/main.1f57fa87.chunk.css.map",
@@ -55,6 +55,6 @@
     "static/css/2.70f84517.chunk.css",
     "static/js/2.2e445f32.chunk.js",
     "static/css/main.1f57fa87.chunk.css",
-    "static/js/main.c6dfcd0c.chunk.js"
+    "static/js/main.f819fefd.chunk.js"
   ]
 }
