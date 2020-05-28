@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rp-medical-clinics/static/css/main.1f57fa87.chunk.css",
-    "main.js": "/rp-medical-clinics/static/js/main.f819fefd.chunk.js",
-    "main.js.map": "/rp-medical-clinics/static/js/main.f819fefd.chunk.js.map",
+    "main.css": "/rp-medical-clinics/static/css/main.3f64c4ab.chunk.css",
+    "main.js": "/rp-medical-clinics/static/js/main.857a0a77.chunk.js",
+    "main.js.map": "/rp-medical-clinics/static/js/main.857a0a77.chunk.js.map",
     "runtime-main.js": "/rp-medical-clinics/static/js/runtime-main.1adddd1e.js",
     "runtime-main.js.map": "/rp-medical-clinics/static/js/runtime-main.1adddd1e.js.map",
     "static/css/2.70f84517.chunk.css": "/rp-medical-clinics/static/css/2.70f84517.chunk.css",
-    "static/js/2.2e445f32.chunk.js": "/rp-medical-clinics/static/js/2.2e445f32.chunk.js",
-    "static/js/2.2e445f32.chunk.js.map": "/rp-medical-clinics/static/js/2.2e445f32.chunk.js.map",
+    "static/js/2.bfb97fc1.chunk.js": "/rp-medical-clinics/static/js/2.bfb97fc1.chunk.js",
+    "static/js/2.bfb97fc1.chunk.js.map": "/rp-medical-clinics/static/js/2.bfb97fc1.chunk.js.map",
     "index.html": "/rp-medical-clinics/index.html",
-    "precache-manifest.0b9d8d058663718581c39aa317cfe7ee.js": "/rp-medical-clinics/precache-manifest.0b9d8d058663718581c39aa317cfe7ee.js",
+    "precache-manifest.84b5de92679abb2c9799d6ed572b3e4b.js": "/rp-medical-clinics/precache-manifest.84b5de92679abb2c9799d6ed572b3e4b.js",
     "service-worker.js": "/rp-medical-clinics/service-worker.js",
     "static/css/2.70f84517.chunk.css.map": "/rp-medical-clinics/static/css/2.70f84517.chunk.css.map",
-    "static/css/main.1f57fa87.chunk.css.map": "/rp-medical-clinics/static/css/main.1f57fa87.chunk.css.map",
-    "static/js/2.2e445f32.chunk.js.LICENSE.txt": "/rp-medical-clinics/static/js/2.2e445f32.chunk.js.LICENSE.txt",
+    "static/css/main.3f64c4ab.chunk.css.map": "/rp-medical-clinics/static/css/main.3f64c4ab.chunk.css.map",
+    "static/js/2.bfb97fc1.chunk.js.LICENSE.txt": "/rp-medical-clinics/static/js/2.bfb97fc1.chunk.js.LICENSE.txt",
     "static/media/1.png": "/rp-medical-clinics/static/media/1.0cea4841.png",
     "static/media/1.jpg": "/rp-medical-clinics/static/media/1.84f2c4c2.jpg",
     "static/media/2.jpg": "/rp-medical-clinics/static/media/2.5341e701.jpg",
@@ -53,8 +53,8 @@
   "entrypoints": [
     "static/js/runtime-main.1adddd1e.js",
     "static/css/2.70f84517.chunk.css",
-    "static/js/2.2e445f32.chunk.js",
-    "static/css/main.1f57fa87.chunk.css",
-    "static/js/main.f819fefd.chunk.js"
+    "static/js/2.bfb97fc1.chunk.js",
+    "static/css/main.3f64c4ab.chunk.css",
+    "static/js/main.857a0a77.chunk.js"
   ]
 }
