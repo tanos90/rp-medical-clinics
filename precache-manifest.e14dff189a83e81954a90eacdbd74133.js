@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df71484fe765ab51e4c04aba0a066895",
+    "revision": "9c86473300ae5fc22eb12e4c92906ba9",
     "url": "/rp-medical-clinics/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rp-medical-clinics/static/css/2.70f84517.chunk.css"
   },
   {
-    "revision": "bcfa445d4510e505210b",
+    "revision": "4b1e4584ee50ad599bf3",
     "url": "/rp-medical-clinics/static/css/main.da96f534.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rp-medical-clinics/static/js/2.854e3349.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bcfa445d4510e505210b",
-    "url": "/rp-medical-clinics/static/js/main.c57fb257.chunk.js"
+    "revision": "4b1e4584ee50ad599bf3",
+    "url": "/rp-medical-clinics/static/js/main.ade301f9.chunk.js"
   },
   {
     "revision": "fcf419a5e162dc7756ad",
